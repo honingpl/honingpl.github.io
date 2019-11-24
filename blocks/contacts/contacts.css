@@ -1,0 +1,32 @@
+@import url('./__container.css');
+
+
+@import url('./__insta_logo.css');
+@import url('./__insta.css');
+
+
+.contacts {
+    /* top: 100px; */
+    /* height: 500px; */
+    display: flex;
+    /* width:70%; */
+    justify-content: center;
+    text-align: center;
+    margin: 50px auto;
+    /* padding-top: 50px; */
+    /* padding-bottom: 70px; */
+    font-weight: bold;
+    /* border: 1px solid blue; */
+  }
+
+  .contacts__map {
+    /* text-align: center; */
+    height: 400px;
+    width: 400px;
+  }
+  /* .gmap_canvas {
+    overflow: hidden;
+    background: none!important;
+    height: 400px;
+    width: 400px;
+  } */
