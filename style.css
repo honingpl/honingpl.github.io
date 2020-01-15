@@ -1,75 +1,20 @@
-@import url("blocks/contacts/contacts.css");
-@import url("./blocks/start/start.css");
+@import url(./blocks/header/header.css);
+@import url(./blocks/navbar/navbar.css);
+@import url(./blocks/contacts/contacts.css);
+@import url(./blocks/insta/insta.css);
 
-/* *  {
+@import url(./blocks/start/start.css);
+@import url(./blocks/footer/footer.css);
+
+*  {
   box-sizing: border-box;
   border: 1px solid red;
-  } */
+  }
 
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.header {
-  padding: 90px;
-  text-align: center;
-  background: white;/*#fc9158;*/
-  color: brown;
-  background-image: url("./images/Logo1-160.png");
-  background-repeat: no-repeat;
-  background-position: center;
-  /*background-size: cover;*/
-}
-.header h1 {
-  font-size: 40px;
-}
-.navbar {
-  overflow: hidden; /* Hide overflow */
-  background-color: #f1a340;
-}
-
-.navbar a {
-  float: left; /* Make sure that the links stay side-by-side */
-  display: block; /* Change the display to block, for responsive reasons (see below) */
-  color: white; /* White text color */
-  text-align: center; /* Center the text */
-  padding: 14px 20px; /* Add some padding */
-  text-decoration: none; /* Remove underline */
-}
-#hovered {
-  background-color: #f5e1b8;
-  color: #6e580e;
-}
-.navbar a.right {
-  float: right; /* Float a link to the right */
-}
-.navbar a:hover {
-  background-color: #faf1d7; /* Grey background color */
-  color: #6e580e; /* Black text color */
-}
-
-@media screen and (max-width: 700px) {
-  .row { 
-    flex-direction: column;
-  }
-}
-
-@media screen and (max-width: 400px) {
-  .navbar a {
-    float: none;
-    width: 100%;
-  }
-}
-
-.footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color: #f5e1b8;
-  color: #6e580e;
-  text-align: center;
-}
 
 
 
@@ -84,7 +29,7 @@ body {
   font-size: 12px;
 }
 
-/* Create two equal columns that sits next to each other */
+/* Create two equal columns that sit next to each other */
 .column-photo {
   flex: 40%;
   padding: 10px;

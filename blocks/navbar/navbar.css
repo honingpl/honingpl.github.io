@@ -1,0 +1,38 @@
+
+.navbar {
+    overflow: hidden;
+    background-color: #f1a340;
+  }
+
+  .navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+  }
+  #hovered {
+    background-color: #f5e1b8;
+    color: #6e580e;
+  }
+  .navbar a.right {
+    float: right;
+  }
+  .navbar a:hover {
+    background-color: #faf1d7;
+    color: #6e580e;
+  }
+
+  @media screen and (max-width: 700px) {
+    .row {
+      flex-direction: column;
+    }
+  }
+
+  @media screen and (max-width: 400px) {
+    .navbar a {
+      float: none;
+      width: 100%;
+    }
+  }

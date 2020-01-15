@@ -1,0 +1,13 @@
+@import url(./__container/insta__container.css);
+@import url(./__logo/insta__logo.css);
+@import url(./__link/insta__link.css);
+
+.insta {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+
+    border: 1px solid blue;
+}

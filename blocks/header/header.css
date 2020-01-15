@@ -1,0 +1,17 @@
+.header {
+    padding: 90px;
+    text-align: center;
+    background: white;/*#fc9158;*/
+    width: 100%;
+    /* height: 120px; */
+    margin-left: auto;
+    margin-right: auto;
+    color: brown;
+    background-image: url(../../images/Logo1-160.png);
+    /* background-size: 100%; */
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  /* .header h1 {
+    font-size: 40px;
+  } */

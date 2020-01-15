@@ -1,0 +1,14 @@
+
+  .contacts__text {
+    align-content: center;
+    margin-right: 50px;
+    padding-top: 30px;
+    margin-bottom: 20px;
+  }
+
+  @media (min-width: 320px) and (max-width: 768px) {
+    .contacts__text {
+        margin-left: auto;
+        margin-right: auto;
+    }
+  }
