@@ -1,3 +1,5 @@
+@import url(./vendor/normalize.css);
+@import url(./blocks/page-container/page-container.css);
 @import url(./blocks/header/header.css);
 @import url(./blocks/navbar/navbar.css);
 @import url(./blocks/contacts/contacts.css);
@@ -11,17 +13,15 @@
   border: 1px solid red;
   } */
 
-body {
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-
+/* body {
+  position: relative;
+} */
 
 
 
 /*-----------Products----------*/
 
-.row {
+/* .row {
   display: flex;
   padding-bottom: 20px;
   height: 200px;
@@ -29,7 +29,6 @@ body {
   font-size: 12px;
 }
 
-/* Create two equal columns that sit next to each other */
 .column-photo {
   flex: 40%;
   padding: 10px;
@@ -55,7 +54,7 @@ body {
   border: 0.01px solid #ffd7af;
   text-align: right;
 }
-
+ */
 
 
 

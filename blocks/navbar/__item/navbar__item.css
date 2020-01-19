@@ -1,0 +1,20 @@
+
+  .navbar__item {
+
+    color: #6e580e;
+
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+  }
+
+  .navbar__item:hover {
+    background-color: #faf1d7;
+    /* color: #6e580e; */
+  }
+
+  @media (min-width: 320px) and (max-width: 768px) {
+    .navbar__item {
+        /* flex-direction: column; */
+    }
+  }

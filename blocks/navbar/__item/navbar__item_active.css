@@ -1,0 +1,11 @@
+
+ .navbar__item_active {
+    background-color: #f1a340;
+    color: #6e580e;
+    cursor: default;
+    font-weight: bold;
+ }
+
+ .navbar__item_active:hover {
+   background-color: #f1a340;
+ }

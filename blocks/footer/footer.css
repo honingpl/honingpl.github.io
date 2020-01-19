@@ -1,13 +1,13 @@
+@import url(./__text/footer__text.css);
 
 .footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
     width: 100%;
-    margin-top: 20px;
+    align-content: center;
     background-color: #f5e1b8;
     color: #6e580e;
-    text-align: center;
+    bottom: 0;
+    margin-bottom: 0;
+    padding-bottom: 0;
 
-    line-height: 30px;
+    font-size: 12px;
   }

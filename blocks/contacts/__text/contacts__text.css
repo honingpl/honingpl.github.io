@@ -1,9 +1,12 @@
 
   .contacts__text {
-    align-content: center;
-    margin-right: 50px;
-    padding-top: 30px;
-    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: 30px;
+    text-align: center;
+    color: #6e580e;
+
+    /* padding-top: 30px; */
+    /* margin-bottom: 20px; */
   }
 
   @media (min-width: 320px) and (max-width: 768px) {
