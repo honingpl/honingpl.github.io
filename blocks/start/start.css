@@ -1,3 +1,29 @@
-@import url('./__container.css');
-@import url('./__text.css');
-@import url('./__image.css');
+@import url(./__text/start__text.css);
+@import url(./__para/start__para.css);
+@import url(./__image-box/start__image-box.css);
+@import url(./__image/start__image.css);
+
+.start {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+
+    /* width: 100%; */
+    line-height: 1.6;
+    margin-top: 30px;
+    margin-right: auto;
+
+    color: #6e580e;
+    font-family: Roboto, Georgia, serif;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+
+}
+
+@media (min-width: 320px) and (max-width: 768px) {
+    .start {
+        flex-direction: column;
+        /* border: 1px solid green; */
+    }
+  }

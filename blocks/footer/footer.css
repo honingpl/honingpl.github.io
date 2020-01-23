@@ -9,5 +9,8 @@
     margin-bottom: 0;
     padding-bottom: 0;
 
+    font-family: Roboto, Georgia, serif;
+    font-weight: normal;
     font-size: 12px;
+    line-height: 12px;
   }

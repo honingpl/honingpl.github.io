@@ -5,6 +5,11 @@
     text-align: center;
     color: #6e580e;
 
+    font-family: 'Roboto Slab', Georgia, serif;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+
     /* padding-top: 30px; */
     /* margin-bottom: 20px; */
   }

@@ -17,47 +17,17 @@
   position: relative;
 } */
 
-
-
-/*-----------Products----------*/
-
-/* .row {
-  display: flex;
-  padding-bottom: 20px;
-  height: 200px;
-  grid-row-gap: 10px;
-  font-size: 12px;
+@font-face {
+  src: url(./fonts/roboto-regular-webfont.woff) format('woff');
+  font-family: 'Roboto';
+  font-style: normal;
 }
 
-.column-photo {
-  flex: 40%;
-  padding: 10px;
-  column-gap: 40px;
-  background-color: #fffef1;
-  border: 0.1px solid #ffd7af;
-
-
+@font-face {
+  src: url(./fonts/robotoslab-regular-webfont.woff) format('woff');
+  font-family: 'Roboto Slab';
+  font-style: normal;
 }
-
-.column-description {
-  flex: 40%;
-  padding: 10px;
-  background-color: #fffef1;
-  border: 0.1px solid #ffd7af;
-
-}
-
-.column-price {
-  flex: 20%;
-  padding: 10px;
-  background-color: #fffef1;
-  border: 0.01px solid #ffd7af;
-  text-align: right;
-}
- */
-
-
-
 
 
 
