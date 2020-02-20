@@ -1,5 +1,6 @@
 @import url(./vendor/normalize.css);
 @import url(./blocks/page-container/page-container.css);
+@import url(./blocks/content-wrap/content-wrap.css);
 @import url(./blocks/header/header.css);
 @import url(./blocks/navbar/navbar.css);
 @import url(./blocks/contacts/contacts.css);
@@ -12,10 +13,6 @@
   box-sizing: border-box;
   border: 1px solid red;
   } */
-
-/* body {
-  position: relative;
-} */
 
 @font-face {
   src: url(./fonts/roboto-regular-webfont.woff) format('woff');

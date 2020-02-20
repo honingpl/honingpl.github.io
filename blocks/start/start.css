@@ -7,8 +7,6 @@
     position: relative;
     display: flex;
     flex-direction: row;
-
-    /* width: 100%; */
     line-height: 1.6;
     margin-top: 30px;
     margin-right: auto;
@@ -24,6 +22,5 @@
 @media (min-width: 320px) and (max-width: 768px) {
     .start {
         flex-direction: column;
-        /* border: 1px solid green; */
     }
   }

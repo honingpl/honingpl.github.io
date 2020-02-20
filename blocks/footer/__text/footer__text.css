@@ -1,9 +1,12 @@
 
 .footer__text {
     text-align: center;
-    margin-bottom: 0;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    /* line-height: 20px; */
+    left: auto;
+    right: auto;
     color: #6e580e;
+
+    font-family: Roboto, Georgia, serif;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 12px;
 }

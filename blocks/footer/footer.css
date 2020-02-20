@@ -2,15 +2,7 @@
 
 .footer {
     width: 100%;
-    align-content: center;
     background-color: #f5e1b8;
     color: #6e580e;
-    bottom: 0;
-    margin-bottom: 0;
-    padding-bottom: 0;
-
-    font-family: Roboto, Georgia, serif;
-    font-weight: normal;
-    font-size: 12px;
-    line-height: 12px;
+    height: 32px;
   }
