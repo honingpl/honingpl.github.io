@@ -9,6 +9,7 @@ export const ContactsComponent = styled.section`
 `;
 
 export const ContentWrapper = styled.div`
+  position: relative;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
@@ -56,6 +57,7 @@ export const StyledIframe = styled.iframe`
 `;
 
 export const InstaWrapper = styled.div`
+  position: relative;
   display: flex;
   width: 20px;
   height: 20px;

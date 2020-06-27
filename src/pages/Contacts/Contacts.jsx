@@ -1,6 +1,6 @@
 import React from "react";
 import { contacts } from "../../content";
-import instagramIcon from "../../images/instagram-icon.png";
+import instaLogo from "../../images/instagram-icon.png";
 
 import {
   ContactsComponent,
@@ -23,7 +23,7 @@ export const Contacts = () => {
           <TextPara>{contacts.email}</TextPara>
           <TextPara>{contacts.phone}</TextPara>
           <InstaWrapper>
-            <InstaLogo src={instagramIcon} alr="instagram logo"></InstaLogo>
+            <InstaLogo src={instaLogo} alr="instagram logo"></InstaLogo>
             <Link
               href={contacts.instaHref}
               target="_blank"
