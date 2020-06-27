@@ -29,12 +29,12 @@ export const NavBar = () => {
         >
           <NavItem>Contacts</NavItem>
         </StyledNavLink>
-        <StyledNavLink
+        {/* <StyledNavLink
           to="/products"
           activeStyle={ActiveStyle(themeContext.navBarActiveBg)}
         >
           <NavItem>Products</NavItem>
-        </StyledNavLink>
+        </StyledNavLink> */}
       </NavWrapper>
     </NavComponent>
   );
