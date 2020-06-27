@@ -7,7 +7,7 @@ import NavBar from "./components/NavBar";
 import Footer from "./components/Footer";
 import Start from "./pages/Start";
 import Contacts from "./pages/Contacts";
-import Products from "./pages/Products";
+// import Products from "./pages/Products";
 
 import { basicTheme } from "./theme";
 

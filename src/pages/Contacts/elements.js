@@ -61,6 +61,7 @@ export const InstaWrapper = styled.div`
 
 export const InstaLogo = styled.img`
   width: 20px;
+  height: 20px;
   margin-right: 10px;
 `;
 
