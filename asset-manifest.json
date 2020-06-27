@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.86ffc29e.chunk.css",
+    "main.js": "/static/js/main.f9b4627a.chunk.js",
+    "main.js.map": "/static/js/main.f9b4627a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c8533d37.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c8533d37.js.map",
+    "static/js/2.81184f74.chunk.js": "/static/js/2.81184f74.chunk.js",
+    "static/js/2.81184f74.chunk.js.map": "/static/js/2.81184f74.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5918d818c10fddb878dc9c9371629ac0.js": "/precache-manifest.5918d818c10fddb878dc9c9371629ac0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.86ffc29e.chunk.css.map": "/static/css/main.86ffc29e.chunk.css.map",
+    "static/js/2.81184f74.chunk.js.LICENSE.txt": "/static/js/2.81184f74.chunk.js.LICENSE.txt",
+    "static/media/IMG_2198.jpg": "/static/media/IMG_2198.f65b651e.jpg",
+    "static/media/Logo1-160.png": "/static/media/Logo1-160.fef58353.png",
+    "static/media/instagram-icon.png": "/static/media/instagram-icon.fe2467d8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8533d37.js",
+    "static/js/2.81184f74.chunk.js",
+    "static/css/main.86ffc29e.chunk.css",
+    "static/js/main.f9b4627a.chunk.js"
+  ]
+}
