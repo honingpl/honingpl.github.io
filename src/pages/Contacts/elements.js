@@ -9,7 +9,7 @@ export const ContactsComponent = styled.section`
 `;
 
 export const ContentWrapper = styled.div`
-  position: relative;
+  // position: relative;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
@@ -22,7 +22,7 @@ export const ContentWrapper = styled.div`
 `;
 
 export const ContactsText = styled.div`
-  position: relative;
+  // position: relative;
   max-width: 400px;
   font-family: Roboto, Georgia, serif;
   font-weight: normal;
@@ -57,7 +57,7 @@ export const StyledIframe = styled.iframe`
 `;
 
 export const InstaWrapper = styled.div`
-  position: relative;
+  // position: relative;
   display: flex;
   width: 20px;
   height: 20px;
