@@ -21,6 +21,7 @@ export const ContentWrapper = styled.div`
 `;
 
 export const ContactsText = styled.div`
+  position: relative;
   max-width: 400px;
   font-family: Roboto, Georgia, serif;
   font-weight: normal;
@@ -31,7 +32,6 @@ export const ContactsText = styled.div`
 export const TextPara = styled.p`
   margin-top: 0;
   padding-top: 0;
-  // text-align: center;
 `;
 
 export const MapWrapper = styled.div`
