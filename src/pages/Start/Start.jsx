@@ -1,6 +1,7 @@
 import React from "react";
 import { startText } from "../../content";
 import startImage from "../../images/IMG_2198.jpg";
+import fundLogo from '../../images/fundusz.png';
 
 import {
   StartComponent,
@@ -13,7 +14,7 @@ import {
 
 export const Start = () => {
   return (
-    <StartComponent>
+    <>    <StartComponent>
       <ContentWrapper>
         <StartText>
           {startText.map((item) => (
@@ -25,5 +26,11 @@ export const Start = () => {
         </PhotoWrapper>
       </ContentWrapper>
     </StartComponent>
+      <div style={{ backgroundColor: '#FFECCC'}}>
+        <a href="https://pfrsa.pl" target="_blank" rel="noopener noreferrer">
+          <img src={fundLogo} alt="Logo of Polski Fundusz Rozwoju" />
+        </a>
+      </div>
+    </>
   );
 };
